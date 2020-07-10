@@ -1,10 +1,12 @@
 ### Hi there 👋
+
+<!--
 Here are some project I have done before
 - 👯 [My 3D print Wedding Invitation](https://skfb.ly/KWoo)
 - 🌱 [Arduino Drum light](https://www.facebook.com/yenkuang.chuang/videos/picfp.1246561742/10220699088487554/?type=3&theater)
 
 
-<!--
+
 **antigenius0910/antigenius0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
