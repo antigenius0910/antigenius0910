@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![stats](https://github-readme-stats.vercel.app/api?username=antigenius0910&include_all_commits=true&count_private=true&show_icons=true&theme=radical) 
+
 <!--
 Here are some project I have done before
 - 👯 [My 3D print Wedding Invitation](https://skfb.ly/KWoo)
